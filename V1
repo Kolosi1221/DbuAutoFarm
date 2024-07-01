@@ -191,7 +191,7 @@ local PaidFormsList = {
         formOwned = false,
         GamePassID = 6950465
     }, {
-        name = "Blanco",
+        name = "Beast",
         reqvalue = 120000001,
         endrangevalue = 100000000000000000000000,
         alignment = "Neutral",
@@ -439,7 +439,7 @@ local FormsList = {
         alignment = "Evil",
         rebirthReq = 20
     }, {
-        name = "Beast",
+        name = "Blanco",
         reqvalue = 120000001,
         endrangevalue = 12000000000000000000000000000000000,
         alignment = "Neutral",
@@ -579,7 +579,7 @@ local FormsList = {
         alignment = "Good",
         rebirthReq = 20
     }, {
-        name = "Beast",
+        name = "Blanco",
         reqvalue = 120000001,
         endrangevalue = 12000000000000000000000000000000000,
         alignment = "Neutral",
