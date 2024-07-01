@@ -108,7 +108,7 @@ local PaidFormsList = {
         endrangevalue = 160000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950449
     }, {
         name = "LSSJ Kaioken",
@@ -116,7 +116,7 @@ local PaidFormsList = {
         endrangevalue = 250000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950449
     }, {
         name = "Mystic Kaioken",
@@ -124,7 +124,7 @@ local PaidFormsList = {
         endrangevalue = 550000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950449
     }, {
         name = "SSJ5",
@@ -132,7 +132,7 @@ local PaidFormsList = {
         endrangevalue = 800000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950469
     }, {
         name = "LSSJ3",
@@ -140,7 +140,7 @@ local PaidFormsList = {
         endrangevalue = 1000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6951002
     }, {
         name = "SSJG4",
@@ -148,7 +148,7 @@ local PaidFormsList = {
         endrangevalue = 1800000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950465
     }, {
         name = "LSSJ4",
@@ -156,7 +156,7 @@ local PaidFormsList = {
         endrangevalue = 3000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6951002
     }, {
         name = "LSSJG",
@@ -164,7 +164,7 @@ local PaidFormsList = {
         endrangevalue = 4000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6951002
     }, {
         name = "Super Broly",
@@ -172,7 +172,7 @@ local PaidFormsList = {
         endrangevalue = 30000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 7837022
     }, {
         name = "True God of Destruction",
@@ -180,7 +180,7 @@ local PaidFormsList = {
         endrangevalue = 50000000,
         alignment = "Evil",
         rebirthReq = 10,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 9848987
     }, {
         name = "SSJB4",
@@ -188,7 +188,7 @@ local PaidFormsList = {
         endrangevalue = 100000000000000000000000,
         alignment = "Neutral",
         rebirthReq = 13,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950465
     }, {
         name = "Beast",
@@ -205,7 +205,7 @@ local PaidFormsList = {
         endrangevalue = 160000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950449
     }, {
         name = "LSSJ Kaioken",
@@ -213,7 +213,7 @@ local PaidFormsList = {
         endrangevalue = 250000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950449
     }, {
         name = "Mystic Kaioken",
@@ -221,7 +221,7 @@ local PaidFormsList = {
         endrangevalue = 550000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950449
     }, {
         name = "SSJ5",
@@ -229,7 +229,7 @@ local PaidFormsList = {
         endrangevalue = 800000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950469
     }, {
         name = "LSSJ3",
@@ -237,7 +237,7 @@ local PaidFormsList = {
         endrangevalue = 1000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6951002
     }, {
         name = "SSJG4",
@@ -245,7 +245,7 @@ local PaidFormsList = {
         endrangevalue = 1800000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950465
     }, {
         name = "LSSJ4",
@@ -253,7 +253,7 @@ local PaidFormsList = {
         endrangevalue = 3000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6951002
     }, {
         name = "LSSJG",
@@ -261,7 +261,7 @@ local PaidFormsList = {
         endrangevalue = 4000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6951002
     }, {
         name = "Super Broly",
@@ -269,7 +269,7 @@ local PaidFormsList = {
         endrangevalue = 30000000,
         alignment = "Neutral",
         rebirthReq = 0,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 7837022
     }, {
         name = "True God of Creation",
@@ -277,7 +277,7 @@ local PaidFormsList = {
         endrangevalue = 50000000,
         alignment = "Good",
         rebirthReq = 10,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 9848987
     }, {
         name = "SSJB4",
@@ -285,7 +285,7 @@ local PaidFormsList = {
         endrangevalue = 120000000,
         alignment = "Neutral",
         rebirthReq = 13,
-        formOwned = false,
+        formOwned = true,
         GamePassID = 6950465
     }, {
         name = "Beast",
